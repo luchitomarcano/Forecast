@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Forecast2</string>
+    <string name="lbl_pressure">PRESSURE</string>
+    <string name="placeholder">--</string>
+    <string name="humidity">HUMIDITY</string>
+    <string name="temp_max">MAX. TEMP.</string>
+    <string name="temp_min">MIN. TEMP.</string>
+    <string name="placeholderCity">Tap here to add / change city</string>
+    <string name="textSize">24sp</string>
+
+</resources>
